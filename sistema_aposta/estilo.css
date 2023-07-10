@@ -1,0 +1,16 @@
+.aposta{
+    display: flex;
+    flex-direction: column;
+    border-width: 10px;
+    border-style: solid;
+    border-color: lightblue;
+    border-radius: 15px;
+    margin: 1%;
+    padding: 1%;
+}
+
+.placar{
+    display: flex;
+    flex-direction: row;
+
+}

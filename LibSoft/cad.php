@@ -1,0 +1,3 @@
+<?php
+    $cadastro = new Cadastro;
+?>
